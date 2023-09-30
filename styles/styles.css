@@ -1,0 +1,23 @@
+body {
+  background-color: #faf1f1;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+  margin-top: 15px;
+}
+
+ul {
+  background-color: orange;
+  width: 250px;
+}
+
+li {
+  font-size: 20px;
+}
